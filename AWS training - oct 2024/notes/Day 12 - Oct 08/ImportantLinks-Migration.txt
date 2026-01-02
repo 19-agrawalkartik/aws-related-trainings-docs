@@ -1,0 +1,7 @@
+https://aws.amazon.com/blogs/aws/how-to-use-the-new-aws-application-migration-service-for-lift-and-shift-migrations/
+https://aws.amazon.com/blogs/mt/aws-offerings-available-to-support-your-cloud-migration/
+https://d1.awsstatic.com/aws-application-migration-service/AWS_MGN_Architecture.pdf
+https://d1.awsstatic.com/aws-application-migration-service/AWS_MGN_Network_Architecture.pdf
+
+https://docs.aws.amazon.com/server-migration-service/latest/userguide/Azure.html
+https://dev.to/giladmaayan/aws-to-azure-making-the-move-3mbm
